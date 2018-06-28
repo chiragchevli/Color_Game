@@ -1,5 +1,5 @@
 # Color Game
->Simple Color Gussing With "easy" and "hard" level.
+>Simple color gussing game With "easy" and "hard" level.
 
 >Just Run "Index.html" 
 
