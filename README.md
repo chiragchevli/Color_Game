@@ -3,5 +3,5 @@
 
 >Just Run "Index.html" 
 
-> :Wink: **Happy Gaming!** :Wink:
+> :wink: **Happy Gaming!** :wink:
 
