@@ -5,3 +5,5 @@
 
 > :wink: **Happy Gaming!** :wink:
 
+> [Play Now!](https://chiragchevli.github.io/projects/Color_game/ "Yayy!!")
+
